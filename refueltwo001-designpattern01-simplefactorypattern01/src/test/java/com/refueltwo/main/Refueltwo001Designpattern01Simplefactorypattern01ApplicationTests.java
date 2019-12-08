@@ -9,7 +9,7 @@ package com.refueltwo.main;
 //@SpringBootTest
 public class Refueltwo001Designpattern01Simplefactorypattern01ApplicationTests {
 
-    @Test
+//    @Test
     public void contextLoads() {
     }
 
