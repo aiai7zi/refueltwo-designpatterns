@@ -10,6 +10,13 @@
 `工厂方法模式的缺点是每增加一个产品类，就需要增加一个对应的工厂类，增加了额外的开发量`  
 [参考网址01](https://blog.csdn.net/u012156116/article/details/80857255)  
 **_refueltwo001-designpattern03-abstractfactorypattern01_**  
-`抽象工厂模式案例说明：user表分别在mysql和oracle数据库，他们的操作对应不同的连接`  
+`抽象工厂模式案例说明：user表分别在mysql和oracle数据库，他们的操作对应不同的连接`   
+`抽象工厂模式可以和简单工厂模式工厂模式一起使用` 
 [参考网址01](https://blog.csdn.net/u012156116/article/details/80857255)   
-
+****  
+**_refueltwo002-designpattern01-observerpattern01_**  
+`观察者模式`  
+[参考网址01](https://blog.csdn.net/ma598214297/article/details/80557821)
+[参考网址02](https://blog.csdn.net/qq_32175491/article/details/79548644)
+[参考网址03](https://www.cnblogs.com/luohanguo/p/7825656.html)
+[参考网址04spring事件机制](https://blog.csdn.net/weixin_39035120/article/details/86225377)
