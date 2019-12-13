@@ -18,7 +18,7 @@
 `观察者模式`   
 `observer：观察者包`   
 `observerable:被观察者包`  
-`client:为客户端包`
+`client:为客户端包`  
 [参考网址01](https://blog.csdn.net/ma598214297/article/details/80557821)
 [参考网址02](https://blog.csdn.net/qq_32175491/article/details/79548644)
 [参考网址03](https://www.cnblogs.com/luohanguo/p/7825656.html)
