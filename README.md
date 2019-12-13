@@ -32,4 +32,14 @@
 `一句话：就是适配器类继承被适配器类在实现目标接口-->实现类的合并增强`  
 [参考网址01](https://blog.csdn.net/wwwdc1012/article/details/82780560)
 [参考网址02](https://www.cnblogs.com/zhaoxinshanwei/p/8867521.html)  
-**_refueltwo003-designpattern01-adapterpattern02_**  
+**_refueltwo003-designpattern01-adapterpattern02_**
+`对象适配器模式`  
+`被适配器类是适配器类的成员变量`  
+[参考网址01](https://blog.csdn.net/wwwdc1012/article/details/82780560)
+[参考网址02](https://www.cnblogs.com/zhaoxinshanwei/p/8867521.html)  
+**_refueltwo003-designpattern01-adapterpattern03_**
+`接口适配器模式`  
+`定义： 当不需要全部实现接口提供的方法时，可先设计一个抽象类实现接口，并为该接口中每个方法提供一个默认实现（空方法），`  
+`那么该抽象类的子类可有选择地覆盖父类的某些方法来实现需求，它适用于一个接口不想使用其所有的方法的情况。`  
+[参考网址01](https://blog.csdn.net/wwwdc1012/article/details/82780560)
+[参考网址02](https://www.cnblogs.com/zhaoxinshanwei/p/8867521.html) 
