@@ -1,3 +1,4 @@
+**_1_******
 **_refueltwo001-designpattern01-simplefactorypattern01_**  
 `简单工厂模式` 
 `简单工厂模式的特点：一个简单的工厂类(com.refueltwo.factory.SimpleFactory)可以创造出不同的实例对象`  
@@ -41,5 +42,6 @@
 `接口适配器模式`  
 `定义： 当不需要全部实现接口提供的方法时，可先设计一个抽象类实现接口，并为该接口中每个方法提供一个默认实现（空方法），`  
 `那么该抽象类的子类可有选择地覆盖父类的某些方法来实现需求，它适用于一个接口不想使用其所有的方法的情况。`  
+`com.refueltwo.adapter.AnimatorListenerAdapter：接口适配器类（是一个抽象类）`  
 [参考网址01](https://blog.csdn.net/wwwdc1012/article/details/82780560)
 [参考网址02](https://www.cnblogs.com/zhaoxinshanwei/p/8867521.html) 
