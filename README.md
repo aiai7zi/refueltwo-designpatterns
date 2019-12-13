@@ -1,5 +1,5 @@
-**_1_**  
 ****
+**_1.`工厂模式`_**  
 **_refueltwo001-designpattern01-simplefactorypattern01_**  
 `简单工厂模式` 
 `简单工厂模式的特点：一个简单的工厂类(com.refueltwo.factory.SimpleFactory)可以创造出不同的实例对象`  
@@ -15,8 +15,8 @@
 `抽象工厂模式案例说明：user表分别在mysql和oracle数据库，他们的操作对应不同的连接`   
 `抽象工厂模式可以和简单工厂模式工厂模式一起使用` 
 [参考网址01](https://blog.csdn.net/u012156116/article/details/80857255)  
-**_2_**   
 ****  
+**_2.`观察者模式`_**     
 **_refueltwo002-designpattern01-observerpattern01_**  
 `观察者模式`   
 `observer：观察者包`   
@@ -26,8 +26,8 @@
 [参考网址02](https://blog.csdn.net/qq_32175491/article/details/79548644)
 [参考网址03](https://www.cnblogs.com/luohanguo/p/7825656.html)
 [参考网址04spring事件机制](https://blog.csdn.net/weixin_39035120/article/details/86225377)
-**_3_**  
 ****
+**_3.`适配器模式`_**  
 **_refueltwo003-designpattern01-adapterpattern01_**
 `缺省适配器模式(Default Adapter Pattern)`  
 `com.refueltwo.adaptee.Adaptee：被适配器类`  
@@ -48,6 +48,6 @@
 `com.refueltwo.adapter.AnimatorListenerAdapter：接口适配器类（是一个抽象类）`  
 [参考网址01](https://blog.csdn.net/wwwdc1012/article/details/82780560)
 [参考网址02](https://www.cnblogs.com/zhaoxinshanwei/p/8867521.html) 
-**_4_**  
 ****
+**_4.`策略模式`_** 
 **_refueltwo004-designpattern01-策略模式_**
