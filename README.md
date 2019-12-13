@@ -15,8 +15,21 @@
 [参考网址01](https://blog.csdn.net/u012156116/article/details/80857255)   
 ****  
 **_refueltwo002-designpattern01-observerpattern01_**  
-`观察者模式`  
+`观察者模式`   
+`observer：观察者包`   
+`observerable:被观察者包`  
+`client:为客户端包`
 [参考网址01](https://blog.csdn.net/ma598214297/article/details/80557821)
 [参考网址02](https://blog.csdn.net/qq_32175491/article/details/79548644)
 [参考网址03](https://www.cnblogs.com/luohanguo/p/7825656.html)
 [参考网址04spring事件机制](https://blog.csdn.net/weixin_39035120/article/details/86225377)
+****
+**_refueltwo003-designpattern01-adapterpattern01_**
+`缺省适配器模式(Default Adapter Pattern)`  
+`com.refueltwo.adaptee.Adaptee：被适配器类`  
+`com.refueltwo.targets.Target:目标接口`  
+`com.refueltwo.adapter.Adapter：适配器类`  
+`一句话：就是适配器类继承被适配器类在实现目标接口-->实现类的合并增强`
+[参考网址01](https://blog.csdn.net/wwwdc1012/article/details/82780560)
+[参考网址02](https://www.cnblogs.com/zhaoxinshanwei/p/8867521.html)
+**_refueltwo003-designpattern01-adapterpattern02_**  
