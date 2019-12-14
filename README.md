@@ -49,7 +49,7 @@
 [参考网址01](https://blog.csdn.net/wwwdc1012/article/details/82780560)
 [参考网址02](https://www.cnblogs.com/zhaoxinshanwei/p/8867521.html) 
 ****
-**_4.`策略模式`_** 
+**_4.`策略模式`_**  
 **_refueltwo004-designpattern01-strategypattern01_**  
 [参考网址01](https://www.runoob.com/design-pattern/strategy-pattern.html)
 [参考网址02](https://blog.csdn.net/m0_37602117/article/details/101756303)
