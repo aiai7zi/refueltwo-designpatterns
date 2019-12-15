@@ -51,6 +51,9 @@
 ****
 **_4.`策略模式`_**  
 **_refueltwo004-designpattern01-strategypattern01_**  
+`com.refueltwo.strategy:所有策略包`  
+`com.refueltwo.context：策略模板包`  
+`策略模式可以减少ifelse的应用`  
 [参考网址01](https://www.runoob.com/design-pattern/strategy-pattern.html)
 [参考网址02](https://blog.csdn.net/m0_37602117/article/details/101756303)
 [参考网址03](https://blog.csdn.net/zhi_fu/article/details/77688289)
