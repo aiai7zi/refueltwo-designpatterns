@@ -58,4 +58,7 @@
 [参考网址02](https://blog.csdn.net/m0_37602117/article/details/101756303)
 [参考网址03](https://blog.csdn.net/zhi_fu/article/details/77688289)
 [参考网址04](https://blog.csdn.net/weixin_42669205/article/details/88561734)
-[参考网址05](https://www.cnblogs.com/cxyyh/p/10828994.html)
+[参考网址05](https://www.cnblogs.com/cxyyh/p/10828994.html)  
+****
+**_5.`命令模式`_**  
+**_refueltwo005-designpattern01-commandpattern01_**  
