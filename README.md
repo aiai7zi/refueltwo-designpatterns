@@ -66,8 +66,14 @@
 `com.refueltwo.concretecommand：命令包`  
 `com.refueltwo.received：命令接受人`  
 `com.refueltwo.invoker：命令的真正执行者`  
-` `  
+`命令模式是使一个类的多个方法（操作）分开，减少了依赖 `  
 [参考网址01](https://blog.csdn.net/qq_40709468/article/details/82724371)
 [参考网址02](https://www.jianshu.com/p/dcca3d559bab)
 [参考网址03](https://blog.csdn.net/qq_40709468/article/details/82724371)
 [参考网址04](http://c.biancheng.net/view/1380.html)
+****
+**_6.`装饰模式`_**  
+**_refueltwo006-designpattern01-decoratorpattern01_**   
+`装饰模式:对已经用实现的方法进行装饰增强`    
+[参考网址01](http://c.biancheng.net/view/1366.html)
+[参考网址02](https://blog.csdn.net/qq_29130945/article/details/81114052)
