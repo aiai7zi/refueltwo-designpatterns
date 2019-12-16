@@ -62,7 +62,11 @@
 ****
 **_5.`命令模式`_**  
 **_refueltwo005-designpattern01-commandpattern01_**  
-`com.refueltwo.abstractcommand：抽象命令类`  
+`com.refueltwo.abstractcommand：抽象命令类`   
+`com.refueltwo.concretecommand：命令包`  
+`com.refueltwo.received：命令接受人`  
+`com.refueltwo.invoker：命令的真正执行者`  
+` `  
 [参考网址01](https://blog.csdn.net/qq_40709468/article/details/82724371)
 [参考网址02](https://www.jianshu.com/p/dcca3d559bab)
 [参考网址03](https://blog.csdn.net/qq_40709468/article/details/82724371)
