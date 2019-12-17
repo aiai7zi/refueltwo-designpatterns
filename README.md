@@ -13,7 +13,7 @@
 [参考网址01](https://blog.csdn.net/u012156116/article/details/80857255)  
 **_refueltwo001-designpattern03-abstractfactorypattern01_**  
 `抽象工厂模式案例说明：user表分别在mysql和oracle数据库，他们的操作对应不同的连接`   
-`抽象工厂模式可以和简单工厂模式工厂模式一起使用` 
+`抽象工厂模式可以和简单工厂模式工厂模式一起使用`  
 [参考网址01](https://blog.csdn.net/u012156116/article/details/80857255)  
 ****  
 **_2.`观察者模式`_**     
@@ -87,7 +87,8 @@
 **_refueltwo008-designpattern01-statepattern01_**  
 `以后再看，就是所有的装都有个实现，环境类执行`  
 [参考网址01](https://blog.csdn.net/Peter_Changyb/article/details/82704480)  
-[其他网址01](https://blog.csdn.net/WiKi_Su/article/details/80263967)
+[其他参考01](https://blog.csdn.net/WiKi_Su/article/details/80263967)
 ****
 **_9.`中介者模式`_**  
-**_refueltwo008-designpattern01-mediatorpattern01_**  
+**_refueltwo009-designpattern01-mediatorpattern01_**   
+`角色：`
