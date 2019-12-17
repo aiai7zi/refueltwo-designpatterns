@@ -84,4 +84,7 @@
 [参考网址01](https://blog.csdn.net/u011897062/article/details/89457070)
 ****
 **_8.`状态模式`_**  
-**_refueltwo008-designpattern01-statepattern01_** 
+**_refueltwo008-designpattern01-statepattern01_**  
+`以后再看，就是所有的装都有个实现，环境类执行`  
+[参考网址01](https://blog.csdn.net/Peter_Changyb/article/details/82704480)  
+[其他网址01](https://blog.csdn.net/WiKi_Su/article/details/80263967)
