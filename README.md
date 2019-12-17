@@ -77,3 +77,11 @@
 `装饰模式:对已经用实现的方法进行装饰增强`    
 [参考网址01](http://c.biancheng.net/view/1366.html)
 [参考网址02](https://blog.csdn.net/qq_29130945/article/details/81114052)
+****
+**_7.`责任链模式`_**  
+**_refueltwo007-designpattern01-chainofresponsibilitypattern01_**  
+`com.refueltwo.abshandler:抽象处理类`  
+[参考网址01](https://blog.csdn.net/u011897062/article/details/89457070)
+****
+**_8.`状态模式`_**  
+**_refueltwo008-designpattern01-statepattern01_** 
