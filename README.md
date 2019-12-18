@@ -100,4 +100,5 @@
 ****
 **_10.`迭代器模式`_**  
 **_refueltwo010-designpattern01-iteratorpattern01_**  
-`很少用`
+`实际运用很少：主要提供容器的顺序访问，ArrayList和HashSet有很好的实现`  
+[参考网址01](https://blog.csdn.net/u011889786/article/details/51461307)
