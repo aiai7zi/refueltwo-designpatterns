@@ -101,4 +101,15 @@
 **_10.`迭代器模式`_**  
 **_refueltwo010-designpattern01-iteratorpattern01_**  
 `实际运用很少：主要提供容器的顺序访问，ArrayList和HashSet有很好的实现`  
-[参考网址01](https://blog.csdn.net/u011889786/article/details/51461307)
+[参考网址01](https://blog.csdn.net/u011889786/article/details/51461307)  
+Visitor
+****
+**_11.`访问者模式`_**  
+**_refueltwo011-designpattern01-visitorpattern01_**  
+`访问者模式主要用于程序设计中的开闭原则`  
+`扫公园的列子` 
+`角色`  
+`abstractvisitor：抽象的访问者`  
+`abstractelement：抽象的元素`   
+`com.refueltwo.objectstructure：对象的结构，主要持有Element的引用`  
+`主要注意角色：其他没什么`
