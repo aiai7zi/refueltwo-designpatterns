@@ -102,7 +102,6 @@
 **_refueltwo010-designpattern01-iteratorpattern01_**  
 `实际运用很少：主要提供容器的顺序访问，ArrayList和HashSet有很好的实现`  
 [参考网址01](https://blog.csdn.net/u011889786/article/details/51461307)  
-Visitor
 ****
 **_11.`访问者模式`_**  
 **_refueltwo011-designpattern01-visitorpattern01_**  
@@ -113,3 +112,12 @@ Visitor
 `abstractelement：抽象的元素`   
 `com.refueltwo.objectstructure：对象的结构，主要持有Element的引用`  
 `主要注意角色：其他没什么`
+****
+**_12.`备忘录模式`_**  
+**_refueltwo012-designpattern01-mementopattern01_**  
+`角色`  
+`originator:初始对象`  
+` memento :备忘对象` 
+`com.refueltwo.caretaker：管理类(保存的对象)`  
+`备忘录模式主要是初始对象提供create(创建)Memento和restore(恢复)Memento两个方法，不要再使用的时候备份`  
+`管理类中还可以有管理策略`   
