@@ -130,4 +130,17 @@
 [参考网址01](https://blog.csdn.net/u010024991/article/details/53436073)  
 ****
 **_14.`桥接模式`_**  
-**_refueltwo014-designpattern01-bridgepattern01_** 
+**_refueltwo014-designpattern01-bridgepattern01_**  
+`汽车安装引擎（engine）<按嗯几>的列子`  
+`主要角色` 
+`抽象化(abstraction)角色：定义抽象类，并包含一个对实现化对象的引用。`  
+`扩展抽象化（refined abstraction）角色：是抽象化角色的子类，实现父类中的业务方法，`  
+`并通过组合关系调用实现化角色中的业务方法`  
+`实现化(implementor)角色com.refueltwo.implementor.Implementor(汽车抽象化类)：定义实现化角色的接口，`  
+`供扩展抽象化角色调用。`  
+`具体实现化(concrete implementor)角色：给出实现化角色接口的具体实现。com.refueltwo.concreteimplementor`  
+`减少多种类的结构的乘积（减少迪卡尔效应）`  
+****
+**_15.`原型模式`_**  
+**_refueltwo015-designpattern01-prototypepattern01_**   
+``  

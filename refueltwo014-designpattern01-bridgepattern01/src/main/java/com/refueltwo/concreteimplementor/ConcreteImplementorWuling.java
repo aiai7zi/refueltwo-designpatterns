@@ -1,0 +1,18 @@
+package com.refueltwo.concreteimplementor;
+
+import com.refueltwo.implementor.Implementor;
+
+/**
+ * @ClassName ConcreteImplementorWuling
+ * @See
+ * @Author tanji
+ * @Date 2019/12/21 1:17
+ * @Version V1.0
+ **/
+
+public class ConcreteImplementorWuling implements Implementor {
+    @Override
+    public void oerationImpl() {
+        System.out.println("安装五菱自己的柴油机");
+    }
+}
