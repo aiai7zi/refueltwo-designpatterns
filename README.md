@@ -117,7 +117,14 @@
 **_refueltwo012-designpattern01-mementopattern01_**  
 `角色`  
 `originator:初始对象`  
-` memento :备忘对象` 
+`memento :备忘对象`  
 `com.refueltwo.caretaker：管理类(保存的对象)`  
 `备忘录模式主要是初始对象提供create(创建)Memento和restore(恢复)Memento两个方法，不要再使用的时候备份`  
 `管理类中还可以有管理策略`   
+****
+**_13.`解释器模式`_**  
+**_refueltwo013-designpattern01-interpreterpattern01_**  
+`读取int的十六进制`  
+`解释器模式难：但jdk有好多的实现可用`  
+`终结和非终结的实现：但非终结一定调用了终结的interpret()方法`  
+[参考网址01](https://blog.csdn.net/u010024991/article/details/53436073)  
