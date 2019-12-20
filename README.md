@@ -128,3 +128,6 @@
 `解释器模式难：但jdk有好多的实现可用`  
 `终结和非终结的实现：但非终结一定调用了终结的interpret()方法`  
 [参考网址01](https://blog.csdn.net/u010024991/article/details/53436073)  
+****
+**_14.`桥接模式`_**  
+**_refueltwo014-designpattern01-bridgepattern01_** 
