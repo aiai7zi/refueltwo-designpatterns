@@ -167,9 +167,11 @@
 `实际访问的是子类的真实实现方法(多态性)`  
 ****
 **_18.`外观模式`_**  
-**_refueltwo017-designpattern01-外观模式pattern01_**  
-``  
-``  
+**_refueltwo018-designpattern01-facadepattern01_**  
+`角色`  
+`1.外观（Facade）角色：为多个子系统对外提供一个共同的接口。`  
+`2.子系统（Sub System）角色：实现系统的部分功能，客户可以通过外观角色访问它。`  
+`外观（Facade）模式是“迪米特法则”的典型应用。`  
 ``  
 
 
