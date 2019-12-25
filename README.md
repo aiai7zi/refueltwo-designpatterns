@@ -160,8 +160,14 @@
 `3.com.refueltwo.concretebuilder:具体建造者`  
 `4.com.refueltwo.director:指挥者，它调用建造者对象中的部件构造与装配方法完成复杂对象的创建，在指挥者中不涉及具体产品的信息。`  
 `指挥者相当于，工程队`  
-``  
-``  
+****
+**_17.`模板方法模式`_**  
+**_refueltwo017-designpattern01-templatemethodpattern01_**  
+`抽象方法可以预先写好调用顺序`  
+`实际访问的是子类的真实实现方法(多态性)`  
+****
+**_18.`外观模式`_**  
+**_refueltwo017-designpattern01-外观模式pattern01_**  
 ``  
 ``  
 ``  
